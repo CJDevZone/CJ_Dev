@@ -54,9 +54,6 @@ I am CJ, a passionate developer with expertise in various programming languages,
 
 To explore my projects and tutorials, simply clone the repository and follow the instructions provided in the respective README files.
 
-```bash
-git clone https://github.com/yourusername/CJ_Dev.git
-
 Contributing
 Contributions are welcome! If you have ideas for improvements, new projects, or code snippets, feel free to open an issue or submit a pull request. Please refer to the CONTRIBUTING.md file for guidelines on how to contribute to this repository.
 
@@ -70,3 +67,5 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 <a href="https://www.linkedin.com/in/chathurkajeewantha/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2Fzrw39fYQVCyEa7XHd%2FeTg%3D%3D">Chathurka Jeewantha</a>
 
 Thank you for visiting CJ_Dev! Happy coding!
+```bash
+git clone https://github.com/yourusername/CJ_Dev.git
