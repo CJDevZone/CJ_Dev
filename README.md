@@ -63,10 +63,10 @@ Contributions are welcome! If you have ideas for improvements, new projects, or 
 License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
-Connect with Me
-GitHub:
+#Connect with Me
+##GitHub:
 <a href="https://github.com/CJDevZone">CJDevZone</a>
-LinkedIn:
+##LinkedIn:
 <a href="https://www.linkedin.com/in/chathurkajeewantha/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2Fzrw39fYQVCyEa7XHd%2FeTg%3D%3D">Chathurka Jeewantha</a>
 
 Thank you for visiting CJ_Dev! Happy coding!
