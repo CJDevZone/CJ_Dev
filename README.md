@@ -16,8 +16,38 @@ I am CJ, a passionate developer with expertise in various programming languages,
 
 ### JavaScript
 ### JavaScript
-![JavaScript proficiency](https://www.codewithrandom.com/wp-content/uploads/2022/09/Untitled-1200-%C3%97-720-px-17.png) 85%
 
+```html
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Animated Skills Bar</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Animated Skills Bar</h1>
+    <div class="skill-bars">
+      <div class="bar">
+        <div class="info"> <span>HTML</span> </div>
+        <div class="progress-line html"> <span></span> </div>
+      </div>
+      <div class="bar">
+        <div class="info"> <span>CSS</span> </div>
+        <div class="progress-line css"> <span></span> </div>
+      </div>
+      <div class="bar">
+        <div class="info"> <span>Java Script</span> </div>
+        <div class="progress-line JavaScript"> <span></span> </div>
+      </div>
+      <div class="bar">
+        <div class="info"> <span>React</span> </div>
+        <div class="progress-line react"> <span></span> </div>
+      </div>
+    </div>
+  </body>
+</html>
 ### React.js
 <div style="background-color: #4CAF50; width: 80%;">&nbsp;</div>
 80%
