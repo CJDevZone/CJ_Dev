@@ -10,18 +10,38 @@ I am CJ, a passionate developer with expertise in various programming languages,
 
 ## Skills
 
-Here are my skills and their proficiency percentages:
+## Skills and Proficiency Percentages
 
-- **Python**: 90%
-- **JavaScript**: 85%
-- **React.js**: 80%
-- **Node.js**: 80%
-- **HTML/CSS**: 85%
-- **SQL**: 75%
-- **Git/GitHub**: 90%
-- **Docker**: 70%
-- **AWS**: 70%
-- **Machine Learning**: 80%
+### Python
+90%
+
+### JavaScript
+85%
+
+### React.js
+80%
+
+### Node.js
+80%
+
+### HTML/CSS
+85%
+
+### SQL
+75%
+
+### Git/GitHub
+90%
+
+### Docker
+70%
+
+### AWS
+70%
+
+### Machine Learning
+80%
+
 
 ## Getting Started
 
