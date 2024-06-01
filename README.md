@@ -15,8 +15,8 @@ I am CJ, a passionate developer with expertise in various programming languages,
 90%
 
 ### JavaScript
-<div style="background-color: #4CAF50; width: 85%;">&nbsp;</div>
-85%
+### JavaScript
+![JavaScript proficiency](https://www.codewithrandom.com/wp-content/uploads/2022/09/Untitled-1200-%C3%97-720-px-17.png) 85%
 
 ### React.js
 <div style="background-color: #4CAF50; width: 80%;">&nbsp;</div>
